@@ -1,0 +1,9 @@
+c:\users\student\documents\visual studio 2017\Projects\HTTP\HTTP\bin\Debug\HTTP.exe.config
+c:\users\student\documents\visual studio 2017\Projects\HTTP\HTTP\bin\Debug\HTTP.exe
+c:\users\student\documents\visual studio 2017\Projects\HTTP\HTTP\bin\Debug\HTTP.pdb
+c:\users\student\documents\visual studio 2017\Projects\HTTP\HTTP\obj\Debug\HTTP.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2017\Projects\HTTP\HTTP\obj\Debug\HTTP.Form1.resources
+c:\users\student\documents\visual studio 2017\Projects\HTTP\HTTP\obj\Debug\HTTP.Properties.Resources.resources
+c:\users\student\documents\visual studio 2017\Projects\HTTP\HTTP\obj\Debug\HTTP.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2017\Projects\HTTP\HTTP\obj\Debug\HTTP.exe
+c:\users\student\documents\visual studio 2017\Projects\HTTP\HTTP\obj\Debug\HTTP.pdb
